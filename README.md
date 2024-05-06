@@ -2,7 +2,8 @@
 **Charlotte Dong A16899597**
 
 **Links to Expose and Explore websites**
-
+1. [expose](https://charl0ttedqy.github.io/Lab5_Starter/expose.html)
+2. [explore](https://charl0ttedqy.github.io/Lab5_Starter/explore.html)
 
 **Explore Part 3 Short Answers**
 1. No, I would not use a unit test to test the message feature of a messaging app since it might involve multiple components to work together to make it function correctly.
